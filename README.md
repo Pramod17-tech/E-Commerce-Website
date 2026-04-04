@@ -27,7 +27,7 @@ A simple static online store built with HTML, CSS, and JavaScript.
 - The cart uses browser `localStorage`, so items stay in the cart until cleared or the browser data is removed.
 - This is a static demo site; it does not have a real payment gateway or server backend.
 
-## Recommended improvement ideas
+## Recommended improvement ideas (If anyone want to contribute.)
 
 - Add search and product filters
 - Store cart data on a server or cloud database
